@@ -10,5 +10,5 @@ chmod +x t3rn.sh;
 ./t3rn.sh
 ```
 > [!IMPORTANT]
-> This is only works on linux system !
+> This is only works on bash linux system !
 > You must fill required variable on the config file !
