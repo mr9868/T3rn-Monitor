@@ -2,8 +2,8 @@
 
 installation step :
 ```
-apt install screen bc jq curl -y;
-git clone https://github.com/mr9868/T3rn-Monitor;
+apt install screen bc jq curl -y &&
+git clone https://github.com/mr9868/T3rn-Monitor &&
 cd T3rn-Monitor;
 nano config;
 chmod +x t3rn.sh;
