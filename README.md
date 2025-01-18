@@ -2,7 +2,7 @@
 
 installation step :
 ```
-apt install bc jq curl;
+apt install screen bc jq curl -y;
 git clone https://github.com/mr9868/T3rn-Monitor;
 cd T3rn-Monitor;
 nano config;
